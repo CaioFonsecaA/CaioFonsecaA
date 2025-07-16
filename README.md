@@ -2,7 +2,7 @@
 
 •⚙️Técnico em Automação Industrial - IFRJ.
 
-•🌱Atualmente cursando SI 1° Período - UNIFOA.
+•🌱Atualmente cursando SI 2° Período - UNIFOA.
 
 •💻Procuro emprego como desenvolvedor/programador ou estagiário.
 
