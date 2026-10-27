@@ -7,9 +7,6 @@
 <a href="https://www.linkedin.com/in/caio-fonsecaa/">
   <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://fronteiraco.netlify.app/">
-  <img src="https://img.shields.io/badge/Conhe%C3%A7a_a_FRONTEIRA-18181B?style=for-the-badge&logo=netlify&logoColor=white" alt="Site da FRONTEIRA">
-</a>
 
 </div>
 
